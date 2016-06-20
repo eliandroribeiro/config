@@ -1,0 +1,21 @@
+{
+  // /home/eliandro/.config/sublime-text-3/Packages/User/Preferences.sublime-settings
+	"theme": "Seti.sublime-theme",
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"highlight_line": true,
+	"translate_tabs_to_spaces": false,
+	"indent_guide_options": ["draw_active"],
+	"match_brackets_angle": false,
+	"auto_complete_cycle": true,
+	"tab_completion": false,
+	"drag_text": false,
+	"auto_find_in_selection": true,
+	"highlight_modified_tabs": true,
+	"bold_folder_labels": true,
+	"show_encoding": true,
+	
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
